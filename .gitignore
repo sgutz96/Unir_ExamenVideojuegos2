@@ -13,3 +13,23 @@ Saved/
 
 # Mac
 .DS_Store
+
+
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
